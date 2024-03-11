@@ -1,15 +1,23 @@
 # YP_Hotspots
 This script is compatible with both Python 2 and Python 3, having been tested on Python 2.7+ and Python 3.6 & 3.7. 
+
 ## Python Dependencies
 scipy
+
 numpy
+
 statsmodels
+
 multiprocessing
+
 
 ## Installation Guide
 pip install scipy
+
 pip install numpy
+
 pip install statsmodels
+
 pip install multiprocessing
 
 ## Usage
