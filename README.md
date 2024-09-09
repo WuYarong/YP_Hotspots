@@ -32,4 +32,4 @@ python3 SlidingWindow_PermutationTest_HotSpots_Identification.py dataset/3318S_S
 `
 
 ## License
-This project is covered under GNU the General Public License, version 3.0 (GPL-3.0).
+This project is covered under the GUN General Public License, version 3.0 (GPL-3.0).
