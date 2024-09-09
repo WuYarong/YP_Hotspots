@@ -38,7 +38,7 @@ python3 SlidingWindow_PermutationTest_HotSpots_Identification.py dataset/3318S_S
 -l 4653728 -o d1k_r10k_w500.hotregion -d 1000 -r 10000 -w 500 -t 20
 `
 
-Running the complete test dataset will take 10 hours or more. If you only want to verify successful execution, you can either use a quarter of the test dataset (while proportionally reducing the reference genome length of 4,653,728 bp) or reduce the "-r" parameter.
+Running the complete test dataset will take 10 hours or more a "normal" desktop computer. If you just want to test whether it can run successfully, you can either use a quarter of the test dataset (while proportionally reducing the reference genome length of 4,653,728 bp) or reduce the "-r" parameter.
 
 ## License
 This project is covered under the GUN General Public License, version 3.0 (GPL-3.0).
