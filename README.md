@@ -30,3 +30,6 @@ python SlidingWindow_PermutationTest_HotSpots_Identification.py [-h] -s SNP_MATR
 python3 SlidingWindow_PermutationTest_HotSpots_Identification.py dataset/3318S_SNP-INDEL.matrix
 -l 4653728 -o d1k_r10k_w500.hotregion -d 1000 -r 10000 -w 500 -t 20
 `
+
+## License
+This project is covered under GNU the General Public License, version 3.0 (GPL-3.0).
